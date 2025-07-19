@@ -399,7 +399,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
                     children: [
                       Text(
                         widget.calculatorType.icon,
-                        style: const TextStyle(fontSize: 48),
+                        style: const TextStyle(fontSize: 52),
                       ),
                       const SizedBox(height: 8),
                       Text(
@@ -795,3 +795,4 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
     super.dispose();
   }
 }
+
