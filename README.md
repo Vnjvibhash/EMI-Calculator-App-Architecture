@@ -1,7 +1,10 @@
 # Loan's EMI Lens Calculator App Architecture
 
 ## App Overview
-A comprehensive financial calculator app featuring 12 different calculators with splash screen, intro screens, and modern UI design.
+A comprehensive financial calculator app featuring 12 different calculators with splash screen, intro screens, and modern UI design. Take control of your finances with Loan's EMI Lens, the ultimate loan and EMI calculator app designed to simplify your loan planning. Whether you're applying for a personal loan, car loan, home loan, or any type of EMI-based borrowing, this app provides quick, accurate, and easy-to-understand calculations in just a few taps.
+
+## Install this App from Google PayStore.
+[<img alt="Get it on Google Play" height="80" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png">](https://play.google.com/store/apps/details?id=in.innovateria.loanlens)
 
 ## Features
 1. **Splash Screen** - Animated app introduction
